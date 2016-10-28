@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SharedFunctionality</string>
+    <string name="login.fieldRequired">Required.</string>
+    <string name="errors.invalid_email">Invalid email</string>
 </resources>
