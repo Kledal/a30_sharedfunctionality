@@ -8,4 +8,12 @@ public class Information {
     public String title;
     public String description;
     public String link;
+
+    public Information() { }
+
+    public Information(String title, String link, String description) {
+        this.title = title;
+        this.link = link;
+        this.description = description;
+    }
 }
