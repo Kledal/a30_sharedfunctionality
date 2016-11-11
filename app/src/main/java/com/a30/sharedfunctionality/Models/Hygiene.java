@@ -8,6 +8,8 @@ public class Hygiene {
     public SchemeRow bath;
     public SchemeRow dailyCleanMasks;
     public SchemeRow dailyCleanCradle;
+    public String comment;
+
     public String childId;
     public long createdAt;
     public String createdBy;
