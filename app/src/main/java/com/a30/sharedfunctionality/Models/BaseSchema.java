@@ -4,4 +4,7 @@ public class BaseSchema {
     public String childId;
     public long createdAt;
     public String createdBy;
+
+    public BaseSchema() {
+    }
 }
